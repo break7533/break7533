@@ -1,4 +1,4 @@
-### Hi there Mate! 👋
+## Hi there Mate! 👋
 
 My name is Luís Lopes, and I'm a frontend developer from Porto, Portugal 🇵🇹
 

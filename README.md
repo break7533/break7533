@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there Mate! 👋
 
-<!--
-**break7533/break7533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luís Lopes, and I'm a frontend developer from Porto, Portugal 🇵🇹
 
-Here are some ideas to get you started:
+🏢 I've currently working at Blip with React <img width="25" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Icon">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I tend to deep dive into whatever fancies on the web tech (gatsby , javascript fundamentals, next js <img width="25" height="15" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/landscape/nextjs.png" alt="next Icon"> ) 
+
+⚡ On my free time I'm a photographer (amateur), console player, avid reader and redditor (ASOAIF anyone?)
+
+
+### How to reach me 📫
+
+<img align="left" width="25" height="25" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="Linkedin Icon"> https://www.linkedin.com/in/break7533/
+
+<img align="left" width="25" height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Icon"> https://github.com/break7533
+
+<img align="left" width="25" height="25" src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png" alt="Twitter Icon"> https://twitter.com/lBreak15
+
+<img align="left" width="25" height="25" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="Gmail Icon"> 
+ll6295 at gmail.com

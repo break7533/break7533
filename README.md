@@ -6,8 +6,6 @@ My name is Luís Lopes, and I'm a frontend developer from Porto, Portugal 🇵�
 
 🌱 I tend to deep dive into whatever fancies on the web tech (gatsby , javascript fundamentals, next js <img width="25" height="15" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/landscape/nextjs.png" alt="next Icon"> ) 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gatsbyjs.com%2Fguidelines%2Flogo%2F&psig=AOvVaw2Jr_f_4PP1gR8adyp9H2rJ&ust=1601808617234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDKm6CgmOwCFQAAAAAdAAAAABAD
-
 ⚡ On my free time I'm a photographer (amateur), console player, avid reader, and redditor (ASOAIF anyone?)
 
 

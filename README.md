@@ -20,11 +20,11 @@ My name is Luís Lopes, and I'm a frontend developer from Porto, Portugal 🇵�
 <img align="left" width="25" height="25" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="Gmail Icon"> 
 ll6295 at gmail.com
 
-<br/>
+<br/></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=break7533&show_icons=true&count_private=true&theme=monokai" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=break7533&show_icons=true&count_private=true&theme=monokai" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=break7533&hide=CoffeeScript&theme=monokai&layout=compact" />
+  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=break7533&hide=CoffeeScript&theme=monokai&layout=compact" />
 </a>

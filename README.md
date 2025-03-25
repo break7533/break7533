@@ -22,8 +22,8 @@ ll6295 at gmail.com
 <br/></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="450" src="https://github-readme-stats-git-master-lus-lopes-projects.vercel.app/api?username=break7533&show_icons=true&count_private=true&theme=monokai" />
+  <img align="center" width="530" src="https://github-readme-stats-git-master-lus-lopes-projects.vercel.app/api?username=break7533&show_icons=true&count_private=true&theme=monokai" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" src="https://github-readme-stats-git-master-lus-lopes-projects.vercel.app/api/top-langs/?username=break7533&hide=CoffeeScript&theme=monokai&layout=compact" />
+  <img align="center" width="400" src="https://github-readme-stats-git-master-lus-lopes-projects.vercel.app/api/top-langs/?username=break7533&hide=CoffeeScript&theme=monokai&layout=compact&size_weight=0.1&count_weight=0.1" />
 </a>

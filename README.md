@@ -4,9 +4,9 @@ My name is Luís Lopes, and I'm a frontend developer from Porto, Portugal 🇵�
 
 🏢 I've currently working at Blip with React <img width="25" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Icon">
 
-🌱 I tend to deep dive into whatever fancies on the web tech (gatsby , javascript fundamentals, next js <img width="25" height="15" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/landscape/nextjs.png" alt="next Icon"> ) 
+🌱 I tend to deep dive into whatever fancies on the web tech (gatsby, javascript fundamentals, next js <img width="25" height="15" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/landscape/nextjs.png" alt="next Icon"> ) 
 
-⚡ On my free time I'm a photographer (amateur), console player, avid reader and redditor (ASOAIF anyone?)
+⚡ In my free time, I'm a photographer (amateur), console player, and avid reader
 
 
 ### How to reach me 📫
@@ -15,7 +15,6 @@ My name is Luís Lopes, and I'm a frontend developer from Porto, Portugal 🇵�
 
 <img align="left" width="25" height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Icon"> https://github.com/break7533
 
-<img align="left" width="25" height="25" src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png" alt="Twitter Icon"> https://twitter.com/lBreak15
 
 <img align="left" width="25" height="25" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="Gmail Icon"> 
 ll6295 at gmail.com
